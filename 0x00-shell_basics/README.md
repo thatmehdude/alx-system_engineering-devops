@@ -1,1 +1,1 @@
-prints working directory
+each script helps navigate the command line
